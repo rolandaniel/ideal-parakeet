@@ -1,0 +1,2 @@
+# ideal-parakeet
+Python course
